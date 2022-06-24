@@ -1,0 +1,14 @@
+/*
+ * Copyright (c) 2022 EGT Digital - All rights reserved.
+ * 
+ * File: .babelrc
+ * 
+ * Written by Martin Lubenov <martin.lubenov@egt-digital.com> on  17.06.22 1:26 pm.
+ * Last modified: 17.06.22 1:26 pm.
+ * 
+ * More information at: https://egt-digital.com/
+ */
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [["@babel/plugin-transform-runtime"], ["@babel/plugin-syntax-json-strings"]]
+}
